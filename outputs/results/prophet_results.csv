@@ -1,0 +1,6 @@
+model,ticker,rmse,mae,mape,dir_acc
+Prophet,AAPL,25.4714,20.5958,7.41,41.9
+Prophet,MSFT,93.2348,91.5473,23.19,45.2
+Prophet,GOOGL,52.3133,42.205,11.9,58.1
+Prophet,TSLA,48.1176,41.7974,11.09,59.7
+Prophet,AMZN,24.3857,22.9271,9.86,45.2
