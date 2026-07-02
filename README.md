@@ -49,7 +49,7 @@ It is not financial advice and is not intended for live trading.
 Python | yfinance | TensorFlow/Keras | Prophet | XGBoost | pandas | Plotly
  
 ## How to Run
-git clone https://github.com/YOUR_USERNAME/stock-forecasting
+git clone https://github.com/yourusername/stock-forecasting
 cd stock-forecasting
 python -m venv venv && venv\Scripts\activate
 pip install -r requirements.txt
